@@ -26,38 +26,28 @@ Whenever I get a chance, I enjoy spending time in nature (New England is a birde
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 Our [challenge](https://synthrad2023.grand-challenge.org/) won 'Best in Physics' award at ESTRO2024
-- *2024.03*: &nbsp;🎉🎉 Our [paper](https://www.nature.com/articles/s42256-024-00807-9) on foundation models for cancer imaging biomarkers was published in Nature Machine Intelligence 
-- *2022.02*: &nbsp;🎉🎉 Our [paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/1292608/Optimizing-CycleGAN-design-for-CBCT-to-CT-translation--insights/10.1117/12.3007031.short#_=_) on design choices for CycleGANs in CBCT to CT translation will be presented at SPIE in San Diego by [Ibrahim](https://aim.hms.harvard.edu/team/ibrahim-hadzic)
+- *2024.05*: &nbsp;🎖️ Our [challenge](https://synthrad2023.grand-challenge.org/) won 'Best in Physics' award at ESTRO2024
+- *2024.03*: &nbsp;🎉📝 Our [paper](https://www.nature.com/articles/s42256-024-00807-9) on foundation models for cancer imaging biomarkers was published in Nature Machine Intelligence 
+- *2022.02*: &nbsp;🎉📊 Our [paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/1292608/Optimizing-CycleGAN-design-for-CBCT-to-CT-translation--insights/10.1117/12.3007031.short#_=_) on design choices for CycleGANs in CBCT to CT translation will be presented at SPIE in San Diego by [Ibrahim](https://aim.hms.harvard.edu/team/ibrahim-hadzic)
 
-<!-- # 📝 Publications 
+# 📝 Publications 
+
+## Representation Learning in Oncology
+- `Nature Machine Intelligence` [Foundation Model for Cancer Imaging Biomarkers](https://www.nature.com/articles/s42256-024-00807-9) **Suraj Pai**, Dennis Bontempi, Ibrahim Hadzic, Vasco Prudente, Mateo Sokač, Tafadzwa L. Chaunzwa, Simon Bernatz, Ahmed Hosny, Raymond H. Mak, Nicolai J. Birkbak & Hugo J. W. L. Aerts 
+
+## Image-to-Image translation for Medical Imaging
+- `SPIE 2023`[Optimizing CycleGAN design for CBCT-to-CT translation: insights into 2D vs 3D modeling, patch size, and the need for tailored evaluation metrics](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/1292608/Optimizing-CycleGAN-design-for-CBCT-to-CT-translation--insights/10.1117/12.3007031.short#_=_) **Suraj Pai**, Ibrahim Hadzic, , Vicki Trier Taasti, Dennis Bontempi, Ivan Zhovannik, Richard Canters, Jan Jakob Sonke, Andre Dekker, Jonas Teuwen, Alberto Traverso
+- `Sensors` [Frequency-Domain-Based Structure Losses for CycleGAN-Based Cone-Beam Computed Tomography Translation](https://www.mdpi.com/1424-8220/23/3/1089) **Suraj Pai**, Ibrahim Hadzic, Chinmay Rao, Ivan Zhovannik, Andre Dekker, Alberto Traverso, Stylianos Asteriadis, Enrique Hortal
+
+## 3D Segmentation for Radiology applications
+- `MICCAI HECKTOR Workshop 2020` [Oropharyngeal Tumour Segmentation Using Ensemble 3D PET-CT Fusion Networks for the HECKTOR Challenge](https://link.springer.com/chapter/10.1007/978-3-030-67194-5_8) **Suraj Pai**, Chinmay Rao, Ibrahim Hadzic, Ivan Zhovannik, Dennis Bontempi, Andre Dekker, Jonas Teuwen, Alberto Traverso
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Open-science through datasets, challenges and tools.
+- `arxiv` [Generating Synthetic Computed Tomography for Radiotherapy: SynthRAD2023 Challenge Report](https://arxiv.org/abs/2403.08447) Evi M. C. Huijben, Maarten L. Terpstra, Arthur Jr. Galapon, **Suraj Pai**,..., Zoltan Perko, Matteo Maspero
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+The Human Condition Podcast
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2DOhUlgjmhNkNtS94wutN6?utm_source=generator&theme=0&t=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
